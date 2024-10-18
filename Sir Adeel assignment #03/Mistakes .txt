@@ -1,0 +1,7 @@
+*****************Mistakes in Sir Adeel Code of linkedlist*****************************
+
+-Replaced Null with NULL (or nullptr in modern C++).
+-Corrected logic in the iAE() function, ensuring node creation happens outside the traversal loop.
+-Proper memory handling and null pointer checks in dAS() and dAE().
+-Fixed return logic in find() to return NULL if the element is not found.
+-Improved insertion and deletion functions to handle edge cases.
